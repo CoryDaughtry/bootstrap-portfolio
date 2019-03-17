@@ -1,0 +1,70 @@
+
+img {
+    width: 100px;
+    height: 100px;
+    float: left;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+ 
+body {
+    background-image: url("../images/white-waves.png");
+}
+    
+
+.links {
+
+    margin-left: 45%;
+    font-size: 16px;
+}
+
+.name {
+    font-size: 30px;
+    margin-left: 15%;
+    margin-top: 5px;
+    border:2px solid #777777;
+    background:#4aaaa5;
+    padding: 15px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+h2 {
+    border-bottom: 2px solid #777777;
+}
+
+.container {
+    font: Georgia, Times, Times, serif;
+    color: #777777;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 60px;
+    border: solid 2px;
+    background: white;
+    Margin-left: 220px;
+    Margin-right: 220px;
+}
+
+.row {
+    margin-top: 25px;
+}
+
+#footer {
+        bottom: 0;
+        width: 100%;
+        position: absolute;
+        height:100px;
+        background-color: #777777;
+        border-top: 4px solid #4aaaa5;
+        }
+
+
+
+
+
+
+
+
+
+
